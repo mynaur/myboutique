@@ -1,0 +1,109 @@
+.right-gride {
+  padding: 0px;
+  height: 1585px;
+  float: left;
+  width: 503px;
+  margin-top: 10px;
+  border-right: 1px solid #bebebe;
+}
+.products-menu {
+  float: left;
+  margin-left: 241px;
+  position: static;
+  width: 263px;
+  height: 381px;
+  padding: 0;
+}
+.products-menu .name-menue {
+  display: flex;
+  width: 262px;
+  height: 39px;
+  background-color: #df1f26;
+  margin: 0px;
+  padding: 0px;
+}
+.products-menu .name-menue p {
+  border: none;
+  padding: 0;
+  width: 262px;
+  margin-top: 13px;
+  margin-bottom: 13px;
+  margin-left: 20px;
+  font-size: 14px;
+  color: #eeeeee;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.products-menu .categorie-items {
+  display: flex;
+  flex-direction: column;
+  color: #bebebe;
+}
+.products-menu .categorie-items .categorie-item {
+  padding-left: 17px;
+  height: 42px;
+  border-bottom: 2px solid #e3e3e3;
+  text-decoration: none;
+  color: #333333;
+  line-height: 2.667;
+  font-size: 15px;
+}
+.products-menu .categorie-items .categorie-item:hover {
+  background-color: #ffffff;
+  border-right: 5px solid #df1f26;
+}
+.products-menu .categorie-items .categorie-item img {
+  margin-right: 13px;
+}
+.delivering {
+  display: block;
+  float: left;
+  margin-top: 90px;
+  margin-left: 258px;
+}
+.comments h4 {
+  float: left;
+  margin-left: 253px;
+  color: #d52229;
+}
+.comments ul {
+  float: left;
+  margin-left: 220px;
+  font-size: 13px;
+  line-height: 1.538;
+  text-align: left;
+}
+.comments li {
+  list-style: none;
+}
+.comments .contact {
+  color: #d52229;
+}
+.comments .comment {
+  color: #565555;
+}
+.comments .time {
+  color: #d52229;
+}
+.comments .good-comments {
+  float: left;
+  color: #d52229;
+  text-transform: uppercase;
+  margin-top: 73px;
+}
+.comments .good-comments .comment-text {
+  background-color: #f6f3f3;
+  font-size: 13px;
+  font-family: "PT Sans";
+  color: #747474;
+  font-style: italic;
+  line-height: 1.538;
+  text-align: left;
+  top: 2059.95px;
+  width: 185px;
+  height: 146px;
+  margin-left: 254px;
+  z-index: 266;
+  padding: 20px 16px;
+  margin-top: 62px;
+}

@@ -1,0 +1,21 @@
+.base-line {
+  display: block;
+  float: left;
+  background: url(../img/mix-background.png) repeat;
+  width: 100%;
+  height: 788px;
+  color: white;
+}
+.base-line .base-line1 {
+  margin-top: 166px;
+  margin-left: 276px;
+}
+.base-line .base-line1 h1 {
+  padding: 0;
+  font-weight: 300;
+  font-size: 45px;
+  line-height: 16px;
+}
+.base-line .base-line2 {
+  margin-left: 276px;
+}
